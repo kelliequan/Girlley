@@ -10,6 +10,6 @@ Pages: Home, Services, How It Works, Pricing, About, Contact. Plain HTML/CSS/JS,
 3. Framework preset: **Other**. Leave build command and output directory empty. Deploy.
 
 ## Quick edits
-- WhatsApp number / email: `assets/main.js` (form) and the links in each page (search `2348161705601`).
-- Founder photo: add `assets/joy.jpg` and uncomment the `<img>` line in `about.html`.
-- Colours and fonts: top of `assets/styles.css`.
+- WhatsApp number / email: `main.js` (form) and the links in each page (search `2348161705601`).
+- Founder photo: add `joy.jpg` and uncomment the `<img>` line in `about.html`.
+- Colours and fonts: top of `styles.css`.
