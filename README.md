@@ -1,6 +1,6 @@
-# Girlley CX — Website
+# Girlley CX Website
 
-Static website for **Girlley Customer Experience** — *Turning Conversations Into Connections.*
+Static website for **Girlley Customer Experience**. *Turning Conversations Into Connections.*
 
 Pages: Home, Services, How It Works, Pricing, About, Contact. Plain HTML/CSS/JS, no build step.
 

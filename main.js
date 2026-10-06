@@ -1,4 +1,4 @@
-// Girlley CX — site behaviour
+// Girlley CX site behaviour
 (function () {
   var WA_NUMBER = "2348161705601";
   var EMAIL = "Joyovedje6055@gmail.com";
